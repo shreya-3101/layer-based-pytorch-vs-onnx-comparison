@@ -1,2 +1,3 @@
-# Layer_Based_Pytorch_Vs_ONNX_Comparison
-This repository contains the overall experiments conducted for doing a step by step comparison between the PyToch model and it's converted ONNX model. We can see what are the differences and what are the differences we can observe.
+version https://git-lfs.github.com/spec/v1
+oid sha256:895521955d48711e95f4e9814983f2aeed0b87ae4d91c195b289f0c880dd4bd6
+size 275
